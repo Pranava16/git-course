@@ -4,3 +4,5 @@ Checking the changes in the commit
 
 
 process the data
+
+create an avatar for user
